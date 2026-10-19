@@ -13,3 +13,4 @@ MIS 561 Data Visualization, 10/12/2026, [link to Tableau story](https://public.t
 
 AI Acknowledgement: I used Claude (Anthropic) to refine the wording and grammar of this entry. 
 
+Card Portfolio Review - Contactless Readiness, build a dashboard to support a recommendation, [link to Tableau](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924357718790/ExplanatoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would explore card types and the geographic data to find more creative insights. 
