@@ -16,3 +16,13 @@ AI Acknowledgement: I used Claude (Anthropic) to refine the wording and grammar 
 Card Portfolio Review - Contactless Readiness, build a dashboard to support a recommendation, [link to Tableau](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924357718790/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would explore card types and the geographic data to find more creative insights. 
 
 Card Growth Analysis - Wildcat Rewards Offer, build a dashboard to support a recommendation, [link to Tableau](https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17930770725520/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would explore using two different charts to make a single recommendation. 
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wildcat Rewards pilot mailing to Texas, where 68 customers qualify.
+
+[Work sample (PDF)](https://github.com/sylvia-bruzga/mis561-portfolio/blob/main/adobe/bruzga-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:fb865998-e709-5bdd-b231-07fb90c955e7?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used a bar chart comparing Texas with the next-highest state and the bank-wide rate, because Jordan needs to see one gap, 42.77% versus 20.35%, rather than scan a full ranking of states. I removed a generation breakdown of Texas's eligible customers because the pilot goes to all 68. The highest generation rates rested on fewer than ten customers, so it added reading time without changing the decision.
+
+Training completed: Nov 2, 2026
