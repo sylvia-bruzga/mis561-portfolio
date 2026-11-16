@@ -26,3 +26,15 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wild
 Design choice: I used a bar chart comparing Texas with the next-highest state and the bank-wide rate, because Jordan needs to see one gap, 42.77% versus 20.35%, rather than scan a full ranking of states. I removed a generation breakdown of Texas's eligible customers because the pilot goes to all 68. The highest generation rates rested on fewer than ten customers, so it added reading time without changing the decision.
 
 Training completed: Nov 2, 2026
+
+**Nov 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to launch and measure the Wildcat Rewards Card pilot in Texas.
+
+[Pitch deck (PDF)]([full GitHub link to bruzga-product-pitch.pdf]) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:38c50ef9-0f42-561c-8088-a62fb304e854?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other))
+
+Toughest objection: "Credit Risk may still move the FICO cutoff, so why commit to a pilot now?" Slide 5 answers it: the dashboard shows the eligible pool at any cutoff, from 458 customers at 650 to 268 at 700, and slide 6 reruns eligibility once Credit Risk confirms the cutoff.
+
+AI use: Claude (Anthropic), Nov 16, 2026, used to review drafts for grammar and consistency, find a strong objective, and draft this README entry. 
+
+Training completed: Oct 16, 2026
