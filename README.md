@@ -31,7 +31,7 @@ Training completed: Nov 2, 2026
 
 Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to launch and measure the Wildcat Rewards Card pilot in Texas.
 
-[Pitch deck (PDF)]([full GitHub link to bruzga-product-pitch.pdf]) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:38c50ef9-0f42-561c-8088-a62fb304e854?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other))
+[Pitch deck (PDF)](https://github.com/sylvia-bruzga/mis561-portfolio/blob/main/adobe/bruzga-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:38c50ef9-0f42-561c-8088-a62fb304e854?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Toughest objection: "Credit Risk may still move the FICO cutoff, so why commit to a pilot now?" Slide 5 answers it: the dashboard shows the eligible pool at any cutoff, from 458 customers at 650 to 268 at 700, and slide 6 reruns eligibility once Credit Risk confirms the cutoff.
 
