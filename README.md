@@ -43,7 +43,7 @@ Training completed: Oct 16, 2026
 
 Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
 
-[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954872526910/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau workbook]([https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954872526910/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954872526910/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 One thing I'd change: I would check how each movie's votes were stored before building my visuals. The data repeats each movie's votes for every person who worked on it, so my first chart counted votes many times until I edited a calculation to count each movie once.
 
