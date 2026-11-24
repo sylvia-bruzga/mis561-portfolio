@@ -38,3 +38,13 @@ Toughest objection: "Credit Risk may still move the FICO cutoff, so why commit t
 AI use: Claude (Anthropic), Nov 16, 2026, used to review drafts for grammar and consistency, find a strong objective, and draft this README entry. 
 
 Training completed: Oct 16, 2026
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
+
+[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954872526910/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+One thing I'd change: I would check how each movie's votes were stored before building my visuals. The data repeats each movie's votes for every person who worked on it, so my first chart counted votes many times until I edited a calculation to count each movie once.
+
+AI use: Claude (Anthropic) helped me troubleshoot calculated fields and refine my analysis wording. November 23, 2026.
